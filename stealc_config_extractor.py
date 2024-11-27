@@ -1,3 +1,5 @@
+# Author: RussianPanda
+
 import pefile
 import re
 import sys
